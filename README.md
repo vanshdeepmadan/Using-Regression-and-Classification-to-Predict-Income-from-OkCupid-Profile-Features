@@ -4,7 +4,7 @@ Objective:
 The goal of this project was to analyze OkCupid profile data to predict users’ income and classify income brackets based on profile features using machine learning techniques.
 
 Analysis and Methods
-	1.	Regression Analysis:
+1.	Regression Analysis:
 	•	Question: Can income be predicted using essay length (essay_len) and average word length (avg_word_len) from user essays?
 	•	Models Used: Linear Regression and K-Nearest Neighbors Regression.
 	•	Results:
@@ -12,7 +12,7 @@ Analysis and Methods
 	•	The results suggest that essay characteristics alone are insufficient predictors of income.
 	•	Conclusion: Text features like essay length and word length lack strong correlation with income.
 
-	2.	Classification Analysis:
+2.	Classification Analysis:
 	•	Question: Can income brackets be classified using education and body type as features?
 	•	Models Used: Logistic Regression and Random Forest Classifier.
 	•	Results:
