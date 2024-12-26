@@ -12,7 +12,6 @@ Analysis and Methods
 	•	The results suggest that essay characteristics alone are insufficient predictors of income.
 	•	Conclusion: Text features like essay length and word length lack strong correlation with income.
 
- 
 	2.	Classification Analysis:
 	•	Question: Can income brackets be classified using education and body type as features?
 	•	Models Used: Logistic Regression and Random Forest Classifier.
